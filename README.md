@@ -4,6 +4,7 @@
   <li>Ruby</li>
   <li>Elixir</li>
   <li>Go</li>
+  <li>Rust</li>
   <li>Python</li>
   <li>Java</li>
   <li>PHP</li>
@@ -13,6 +14,7 @@
 <ul>
   <li>Docker</li>
   <li>Ubuntu Server</li>
+  <li>Ansible</li>
   <li>AWS</li>
   <li>Deploy</li>
   <li>Jenkins</li>
